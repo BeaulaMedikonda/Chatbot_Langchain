@@ -27,4 +27,4 @@ Here are a few ideas to expand this chatbot project further:
 
 ## 👩‍💻 Author  
 Created by **Beaula Medikonda**
-#### Feel free to fork, customize, and build upon this project!
+### Feel free to fork, customize, and build upon this project!
